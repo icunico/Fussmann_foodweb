@@ -6,6 +6,8 @@ Fussmann food web model includes one to three primary producers, one or two cons
 The fussmann_ml code computes the system’s dynamic behavior (species extinction, steady state, periodic oscillations, or
 chaos) for all user-defined parameter combinations.
 
+![Fussmann food web](https://github.com/icunico/Fussmann_ml/blob/main/Species.png)
+
 The model implementation requires the following Python packages: ordpy, numpy, scipy.integrate, matplotlib.pyplot
 
 
