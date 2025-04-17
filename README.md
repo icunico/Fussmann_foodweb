@@ -8,6 +8,7 @@ chaos) for all user-defined parameter combinations.
 
 ![Fussmann food web](https://github.com/icunico/Fussmann_ml/blob/main/Species.png)
 
+![Fussmann food web](https://github.com/icunico/Fussmann_ml/blob/main/Slide1.jpg)
 The model implementation requires the following Python packages: ordpy, numpy, scipy.integrate, matplotlib.pyplot
 
 
