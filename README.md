@@ -8,6 +8,7 @@ chaos) for all user-defined parameter combinations.
 
 ![Fussmann food web](https://github.com/icunico/Fussmann_ml/blob/main/Species.png)
 
+Chaotic dynamics are detected using the Shannon entropy and statistical complexity indices:
 ![Fussmann food web](https://github.com/icunico/Fussmann_ml/blob/main/Chaotic_foodweb.png)
 
 The model implementation requires the following Python packages: ordpy, numpy, scipy.integrate, matplotlib.pyplot
