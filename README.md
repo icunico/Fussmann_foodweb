@@ -1,5 +1,5 @@
 
-## What is fussmann_ml ?
+## What is fussmann_foodweb ?
 
 The present model is based on the Fussmann food web (https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.1461-0248.2002.00329.x).
 Fussmann food web model includes one to three primary producers, one or two consumers, and primary, secondary, and tertiary predators.
